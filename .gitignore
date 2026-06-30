@@ -1,0 +1,11 @@
+# --- Secrets ---
+.env
+
+# --- Python Environment ---
+venv/
+.venv/
+__pycache__/
+
+# --- Data & Databases ---
+chroma_db/
+my_local_tmp/

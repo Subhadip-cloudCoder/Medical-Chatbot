@@ -1,4 +1,4 @@
-def get_medical_system_prompt():
+def system_prompt():
     return """
     You are a professional Medical Information Assistant. 
     Base every answer strictly on the provided context. 
